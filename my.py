@@ -17,4 +17,5 @@ sorted_array = [x for _, x in sorted(zip(sums, input_array))]
 # Виведення відсортованого масиву
 print("Відсортований масив:")
 for row in sorted_array:
-    print(row)
+    print(row) 
+    
